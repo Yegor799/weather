@@ -1,8 +1,6 @@
 import './CurrentWeather.css';
 
-const CurrentWeather = ({ data }) => {
-  
-  
+const CurrentWeather = ({ data }) => { 
 
   return (
     <div className="weather">
